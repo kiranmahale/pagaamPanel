@@ -3,23 +3,23 @@
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
-		<title>Login Form</title>
+		<title>VIDEO</title>
 		<meta name="generator" content="Bootply" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<!--[if lt IE 9]>
 			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
+		<![endif]  //this code is for compatibility of browsers-->
 		<link href="css/styles.css" rel="stylesheet">
 	</head>
 	<body>
-<!--login modal-->
+<!--video model-->
 <div id="loginModal" class="modal show" tabindex="-1" role="dialog" aria-hidden="true" style="margin-top:5%;">
   <div class="modal-dialog">
   <div class="modal-content">
       <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
-          <h1 class="text-center">Login</h1>
+          <h1 class="text-center">VIDEO</h1>
       </div>
       <div class="modal-body">
           <form class="form col-md-12 center-block" action="video.php" method="post">
